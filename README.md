@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Cwenga Mafuya 👋 🛡️
 
-<!--
-**Cwenga36/Cwenga36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity Intern @ Networkwalks**
 
-Here are some ideas to get you started:
+Aspiring Ethical Hacker learning to break things so I can fix them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔐 Cybersecurity Intern @ **Networkwalks** (Oct 2026 - Nov 2026)
+- 🎓 IT Student based in Vanderbijlpark, South Africa 🇿🇦
+- 🛡️ Focus: Network Security, Penetration Testing, Vulnerability Assessment
+- 💻 Learning: Linux, Python, Network Security, Digital Forensics
+
+### 🛠️ Skills
+- Network Security
+- Penetration Testing
+- Vulnerability Assessment
+- Digital Forensics
+- Incident Response
+- Security Operations
+
+### 🏆 Experience
+**Cybersecurity Intern - Networkwalks**
+- Gaining hands-on experience in network security, vulnerability assessment, penetration testing, security operations, incident response, digital forensics and risk assessment.
+
+### 📞 Connect With Me
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/cwenga-mafuya-609637402)
+- GitHub:[My Github](https://github.com/Cwenga36)
+
+> "Learning to protect, one network at a time"
